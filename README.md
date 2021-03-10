@@ -229,7 +229,7 @@ No project. Just lots of study time, alone and in groups. Keep asking questions!
   - for loops
 - Naming Variables:
   - read the [README](./naming-variables/README.md)
-  - watch the [guide](https://cdn.jsdelivr.net/gh/HackYourFutureBelgium/welcome-to-js/naming-variables/guide.mp4)
+  - watch the [guide](https://ghcdn.rawgit.org/bermarte/welcome-to-js/master/naming-variables/guide.mp4)
 
 ### During Class
 
