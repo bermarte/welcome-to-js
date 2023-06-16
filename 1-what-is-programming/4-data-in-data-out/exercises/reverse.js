@@ -1,15 +1,17 @@
 'use strict';
 
 /* Reverse
+    This program reverses the input.
 
   Data In:
-
+    any text
 
   Data Out:
-
+    the given text followed by '->' plus the reversed text
 
   Test Cases:
-
+    '' -> '->'
+    'some text' -> 'some text -> txet emos'
 
 */
 

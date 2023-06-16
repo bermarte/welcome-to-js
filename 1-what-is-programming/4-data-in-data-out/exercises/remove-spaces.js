@@ -2,14 +2,17 @@
 
 /* Remove Spaces
 
-  Data In:
+    This program removes the blank spaces in a string.
 
+  Data In:
+    any text containing empty spaces
 
   Data Out:
-
+    the text 'before' plus the same input text, followed by 'after:' plus the same input text without the empty spaces
 
   Test Cases:
-
+    '' -> 'before: after:'
+    'write something' -> 'before: write something after: writesomething'
 
 */
 

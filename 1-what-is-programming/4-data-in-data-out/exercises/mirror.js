@@ -2,14 +2,17 @@
 
 /* Mirror
 
-  Data In:
+  This program reverses a string.
 
+  Data In:
+    any text
 
   Data Out:
-
+    the reversed string, plus a vertical slash, and the original string
 
   Test Cases:
-
+    '12345' -> '54321 | 12345'
+    'a programming language' -> 'egaugnal gnimmargorp a | a programming language'
 
 */
 
